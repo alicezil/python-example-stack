@@ -12,7 +12,7 @@ class Stack:
         :param element:
         '''
 
-        self.elements.insert(0,element)
+        self.elements.insert(0, element)
 
     def pop(self):
         '''
